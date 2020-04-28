@@ -1,6 +1,6 @@
 ## Management System
 
-............   ~~~~~~~~ .........
+리액트 테스트 프로그램(타이틀변경)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
   
